@@ -8,3 +8,5 @@ vendor/
 
 /docs/Gemfile.lock
 /docs/_site
+
+!/docs/_sass/bootstrap/vendor/
